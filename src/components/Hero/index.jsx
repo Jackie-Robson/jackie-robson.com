@@ -9,7 +9,9 @@ const Hero = () => {
         'hello, i build the internet_',
         'hello, i build model robots_',
         'hello, i write code_',
-        'hello, i have an angry fish_'
+        'hello, i have an angry fish_',
+        'hello, i like japanese cartoons',
+        'hello '
     ]
 
     const text = heroText[Math.floor(Math.random() * heroText.length)];
